@@ -1,0 +1,38 @@
+@media (max-width: 575.98px){
+    .contact-form {
+        flex-direction: column;
+    }
+    .menue{
+        display: none;
+    }
+    .contactus{
+        padding:30px 0px;
+    }
+    .footer-page{
+        flex-direction: column;
+    }
+    .para{
+        width: 500px;
+    }
+    .people-chat{
+        width: 476px;
+    }
+    .fa-bars{
+         display: block;
+    }
+    .fa-caret-down{
+        display: none;
+    }
+}
+@media(max-width:991.98px) and (min-width:575.98px){
+    .personal-data{
+        width: 400px;
+    }
+    .people-chat{
+        width: 540px;
+    height: 585px;
+    }
+   .nave-bar{
+    width: 50%;
+   }
+}
